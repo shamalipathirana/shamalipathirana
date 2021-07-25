@@ -23,7 +23,7 @@
 
 - 💻 &nbsp; Programming Languages: C++ | C |PHP
 
-- 🌐 &nbsp; Front-end:HTML | CSS | JavaScript | Bootstrap | ReactJS  <br>    Back-end: CodeIgniter
+- 🌐 &nbsp; Front-end:HTML | CSS | JavaScript | Bootstrap | ReactJS  <br><tb>    Back-end: CodeIgniter
 - 🛢 &nbsp; MySQL 
 
 - 🖥 &nbsp; UI designing: Figma| AdobeXD
