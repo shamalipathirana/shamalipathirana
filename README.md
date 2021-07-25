@@ -14,5 +14,6 @@
 [![Linkedin: shamalipathirana](https://img.shields.io/badge/-shamalipathirana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shamali-pathirana-939b92201/)](https://www.linkedin.com/in/shamali-pathirana-939b92201/)
 
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
+🌱 I’m currently learning React js
 
