@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamali Pathirana</h1>
-<h3 align="center">I am a third year Undergraduate at University of Colombo School of Computing</h3>
+<h3 align="center">I am an  undergraduate,Trainee Software Engineer</h3>
 <img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
