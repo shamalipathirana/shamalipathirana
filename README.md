@@ -42,4 +42,10 @@
 
 </details>
 
+ <details>
+  <summary>:zap: GitHub Stats</summary>
+
+   <a href="https://github.com/shamalipathirana"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shamalipathirana&custom_title=Shamali%20Pathirana's%20Contribution%20Graph&theme=react-dark" /></a>
+ </details>
+
 
