@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamalipathirana&label=Profile%20views&color=0e75b6&style=flat" alt="shamalipathirana" /> </p>
 
 
-- 🔭 I’m currently working on **Sashreeka(Group Project)**
+- 🔭 I’m currently working on **Styloo Project**
 
-- 🌱 I’m currently learning **Spring Boot  ,Angular**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shamalipathirana](https://github.com/shamalipathirana)
 
