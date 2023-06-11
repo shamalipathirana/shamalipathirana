@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamalipathirana&label=Profile%20views&color=0e75b6&style=flat" alt="shamalipathirana" /> </p>
 
 
-- 🔭 I’m currently working on **Styloo Project**
+- 🔭 I’m currently working on **LinkFX Project**
 
 - 🌱 I’m currently learning **Spring Boot**
 
